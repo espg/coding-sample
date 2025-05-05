@@ -9,6 +9,7 @@ dependencies:
   - tables
   - pyproj
   - tqdm
+  - mystmd
   - ipywidgets
   - gdal
   - scikit-learn
