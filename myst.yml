@@ -2,14 +2,14 @@
 version: 1
 project:
   title: Coding Sample
-  jupyter: true
+    #jupyter: true
   date: 2025-05-05
   authors:
     - name: Shane Grigsby
       affiliations:
         - Cooperative Institute for Research in Environmental Sciences
-  exports:
-    - format: md
+          #exports:
+          #- format: md
 
   # title:
   # description:
@@ -18,7 +18,7 @@ project:
   # github:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
 site:
-  template: article-theme
+  template: book-theme
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
